@@ -88,6 +88,8 @@
         <module>provisioning</module>
         <module>provisioning-maven-plugin</module>
         <module>provisioning-standalone</module>
+        <module>annotations</module>
+        <module>annotation-processors</module>
     </modules>
 
     <build>

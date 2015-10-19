@@ -1,0 +1,2 @@
+org.wildfly.build.annotation.processor.ResourceDescriptionProcessor
+org.wildfly.build.annotation.processor.ServiceProviderProcessor
